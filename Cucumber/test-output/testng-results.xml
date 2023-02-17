@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-09T17:30:02 IST" name="Default suite" finished-at="2023-02-09T17:30:06 IST" duration-ms="4283">
+    <groups>
+    </groups>
+    <test started-at="2023-02-09T17:30:02 IST" name="Default test" finished-at="2023-02-09T17:30:06 IST" duration-ms="4283">
+      <class name="sampleProject.Sample">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:sampleProject.Sample@2794eab6]" started-at="2023-02-09T17:30:02 IST" name="launchBrowser" finished-at="2023-02-09T17:30:05 IST" duration-ms="3842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyHomepageTitle()[pri:0, instance:sampleProject.Sample@2794eab6]" started-at="2023-02-09T17:30:05 IST" name="verifyHomepageTitle" finished-at="2023-02-09T17:30:06 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:sampleProject.Sample@2794eab6]" started-at="2023-02-09T17:30:06 IST" name="terminateBrowser" finished-at="2023-02-09T17:30:06 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- sampleProject.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
